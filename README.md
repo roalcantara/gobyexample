@@ -30,6 +30,7 @@
 - [Git: Source Code Management][1]
 - [The Go Programming Language][2]
 - [Go by Example][3]
+- [1. Go by Example: Hello World][11]
 
 ## Contributing
 
@@ -53,3 +54,4 @@ The project is available as open source under the terms of the [MIT][5] [License
 [8]: <https://conventionalcommits.org> "Conventional Commits"
 [9]: <https://jorisroovers.com/gitlint> "git commit message linter"
 [10]: <https://pre-commit.com> "A framework for managing and maintaining multi-language pre-commit hooks"
+[11]: <https://gobyexample.com/hello-world> "Go by Example: Hello World"
