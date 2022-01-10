@@ -31,6 +31,7 @@
 - [The Go Programming Language][2]
 - [Go by Example][3]
 - [1. Go by Example: Hello World][11]
+- [2. Go by Example: Values][12]
 
 ## Contributing
 
@@ -55,3 +56,4 @@ The project is available as open source under the terms of the [MIT][5] [License
 [9]: <https://jorisroovers.com/gitlint> "git commit message linter"
 [10]: <https://pre-commit.com> "A framework for managing and maintaining multi-language pre-commit hooks"
 [11]: <https://gobyexample.com/hello-world> "Go by Example: Hello World"
+[12]: <https://gobyexample.com/values> "Go by Example: Values"
